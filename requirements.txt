@@ -1,0 +1,31 @@
+# Core Deep Learning stack (Mac M1/M2 optimized)
+tensorflow==2.13.0
+# tensorflow-metal==1.0.0
+keras==2.13.1
+
+scikeras
+
+
+# Data science and ML
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# Web app
+streamlit
+
+# TensorBoard for visualization
+tensorboard==2.13.0
+
+
+
+
+
+# tensorflow==2.13.0
+# pandas
+# numpy
+# streamlit
+# scikit-learn
+# matplotlib
+# tensorboard
