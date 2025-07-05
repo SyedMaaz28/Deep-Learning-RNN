@@ -1,7 +1,7 @@
 # Core Deep Learning stack (Mac M1/M2 optimized)
-tensorflow==2.13.0
+tensorflow
 # tensorflow-metal==1.0.0
-keras==2.13.1
+keras
 
 scikeras
 
