@@ -12,4 +12,5 @@ A simple Recurrent Neural Network (RNN) built from scratch using TensorFlow/Kera
 
 ---
 
+![RNN Model](https://github.com/SyedMaaz28/Deep-Learning-RNN/blob/main/RNN%20App.png)
 
